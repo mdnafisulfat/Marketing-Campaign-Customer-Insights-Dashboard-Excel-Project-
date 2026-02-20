@@ -94,6 +94,10 @@ Additional analysis:
 - Complaint Rate
 - Income vs Web Purchase Correlation
 
+
+
+(https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Key%20Performance%20Indicator(KPI).png?raw=true)
+
 ---
 
 ## 4️⃣ Pivot_Analysis
