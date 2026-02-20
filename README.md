@@ -8,6 +8,15 @@ The objective was to transform raw marketing data into a structured analytical m
 
 ---
 
+
+## 📸 Dashboard Preview
+
+Click to view the interactive dashboard:
+
+![Dashboard Preview](https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Dashboard.png?raw=true)
+
+---
+
 ## 📂 Dataset
 
 **Source:** Maven Analytics – Marketing Campaign Results Dataset  
