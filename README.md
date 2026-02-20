@@ -97,6 +97,9 @@ Additional analysis:
 
 
 ![KPI Preview](https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Key%20Performance%20Indicator(KPI).png?raw=true)
+![KPI Preview](https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Country%20Revenue%20Table.png?raw=true)
+![KPI Preview](https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Channel%20Summary%20Table.png?raw=true)
+![KPI Preview](https://github.com/mdnafisulfat/Marketing-Campaign-Customer-Insights-Dashboard-Excel-Project-/blob/main/Campaign%20Summary%20Table.png?raw=true)
 
 ---
 
